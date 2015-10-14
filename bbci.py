@@ -7,7 +7,7 @@
 ##	--	Date: 07th of July 2015
 ##	--	Last Modified: 
 ## 	--	Ownership: Mark Shine
-##	--	Website: www.seferon.com
+##	--	
 ##########################################
 ##########################################
 ##
